@@ -1,0 +1,12 @@
+.repeater-lite__table { margin-top: 8px; }
+.repeater-lite__table th,
+.repeater-lite__table td { vertical-align: top; }
+.repeater-lite__handle-col,
+.repeater-lite__handle { width: 34px; text-align: center; }
+.repeater-lite__handle .dashicons { cursor: move; color: #646970; margin-top: 7px; }
+.repeater-lite__actions-col,
+.repeater-lite__actions { width: 76px; text-align: right; }
+.repeater-lite__image-preview img { display: block; width: 80px; height: 80px; object-fit: cover; margin-bottom: 8px; border: 1px solid #dcdcde; }
+.repeater-lite__cell input,
+.repeater-lite__cell textarea,
+.repeater-lite__cell select { width: 100%; }
